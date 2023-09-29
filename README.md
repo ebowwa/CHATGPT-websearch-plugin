@@ -1,6 +1,4 @@
 
-
-```markdown
 # ChatGPT Web Search Plugin
 
 This plugin enables ChatGPT to perform web searches during a conversation. Follow the steps below to get it up and running:
@@ -26,6 +24,4 @@ This plugin enables ChatGPT to perform web searches during a conversation. Follo
 - For optimal results, use specific intents to guide the model when interacting with the plugin.
 
 Happy Searching!
-```
 
-This revision provides a clean and structured breakdown of the steps involved in setting up and using your ChatGPT web searching plugin.

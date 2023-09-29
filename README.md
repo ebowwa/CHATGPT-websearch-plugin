@@ -1,3 +1,4 @@
+⚠️ BE SURE TO CORRECT THE URL TO YOUR LOCAL HOST IN THE json && THE main.py ⚠️
 
 # ChatGPT Web Search Plugin
 

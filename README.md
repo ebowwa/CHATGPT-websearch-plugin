@@ -1,4 +1,4 @@
-Certainly! Here's a revised version of your README.md for better clarity and readability:
+
 
 ```markdown
 # ChatGPT Web Search Plugin
